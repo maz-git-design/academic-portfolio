@@ -28,7 +28,7 @@ author:
   name: 'Lionnel Mazuba'
   pronouns: # example: "she/her"
   bio: 'Research Assistant | Microelectronics & AI Hardware Researcher'
-  location: 'Newcastle upon Tyne, United Kingdom'
+  location: 'Newcastle upon Tyne, UK'
   employer: 'Newcastle University'
   uri: # URL
   email: 'l.mazuba2@newcastle.ac.uk'
@@ -36,14 +36,14 @@ author:
   # Academic websites
   academia: # URL
   arxiv: # URL - Update with the correct link to your profile
-  googlescholar: 'https://scholar.google.com/citations?user=PS_CX0AAAAAJ'
+  googlescholar: 'https://scholar.google.com/citations?hl=fr&user=kqt9K7UAAAAJ'
   inspire-hep: # URL
   impactstory: # URL
-  orcid: 'https://orcid.org/yourorcidurl'
+  orcid: 'https://orcid.org/0009-0004-1739-5982'
   semantic: # URL
   ssrn: # URL
-  pubmed: 'https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow'
-  researchgate: # URL
+  pubmed: 
+  researchgate: 'http://researchgate.net/profile/Lionnel-Mazuba'# URL
   scopus: # URL
   zotero: # URL
 
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation: # Username
-  bluesky: 'bsky.app' # Replace this with you Bluesky username
+  bluesky:  # Replace this with you Bluesky username
   facebook: # Username
   flickr: # Username
   foursquare: # Username
@@ -66,7 +66,7 @@ author:
   keybase: # Username
   instagram: # Username
   lastfm: # Username
-  linkedin: # Username
+  linkedin: 'lionnel-mazuba-a362b020a' # Username
   mastodon: # URL
   medium: # URL
   pinterest: # Username

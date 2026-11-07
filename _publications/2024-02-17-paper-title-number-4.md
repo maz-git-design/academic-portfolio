@@ -1,13 +1,34 @@
 ---
-title: "Paper Title Number 4"
+title: "Combined P&O MPPT and CC-CV Algorithms for Portable Efficient Solar Charging System"
 collection: publications
 category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about fixing template issue #693.'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+permalink: /publication/2022-iceccme-solar-charging
+date: 2022-01-01
+venue: '2022 International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/9988742'
+excerpt: 'Design of an efficient portable solar charging system combining Perturb and Observe maximum power point tracking with constant-current and constant-voltage battery charging control.'
+citation: 'Mazuba, L. I., et al. (2022). &quot;Combined P&amp;O MPPT and CC-CV Algorithms for Portable Efficient Solar Charging System.&quot; <i>2022 International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)</i>.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+## Abstract
+
+This work investigates a portable solar charging system that combines two complementary control strategies:
+
+- **Perturb and Observe (P&O) Maximum Power Point Tracking (MPPT)** to improve the extraction of available power from a photovoltaic source.
+- **Constant-Current/Constant-Voltage (CC-CV) charging** to regulate the battery charging process.
+
+The proposed approach integrates photovoltaic energy optimization and battery charging control within a portable solar energy system.
+
+## Research Areas
+
+- Renewable Energy Systems
+- Power Electronics
+- Maximum Power Point Tracking (MPPT)
+- Battery Charging Control
+- Embedded Control Systems
+
+## Publication Details
+
+**Conference:** IEEE ICECCME 2022  
+**Year:** 2022  
+**Publication type:** Peer-reviewed conference paper

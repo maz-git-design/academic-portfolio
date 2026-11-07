@@ -11,35 +11,56 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
+* M.Sc. in Microelectronics: Systems and Devices, Newcastle University, 2026
+  * Grade: Distinction (83.2%), Research Project mark: 86%
+* Eng.Dipl in Electrical and Computer Science Engineering, Université de Kinshasa, 2021
+  * Grade: Distinction (78%), Research Project mark : 95%
 
-Work experience
+Research & Teaching experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* September 2026 – Present: Research Assistant
+  * Newcastle University, United Kingdom
+  * Research: SRAM-based in-memory computing for energy-efficient Edge AI.
+  * Supervisor: Prof. Alex Yakovlev
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* August 2022 – 2025: Junior Lecturer / Teaching Assistant
+  * University of Kinshasa (UNIKIN), DR Congo
+  * Duties: Teaching and laboratory instruction in Electrical Engineering, Signals and Systems, and Control Systems.
+  * Supervisor: Prof. Angelo Kuti Lusala
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+<!-- * November 2023 – May 2024: Security by Design Engineer
+  * Rawbank, DR Congo
+  * Duties: Secure systems design and software security. -->
+
+* September 2023 – September 2025: Part-time Teaching Assistant
+  * ULC–ICAM, DR Congo
+  * Duties: Teaching and mentoring of undergraduate students in computer science and electronics.
+
+<!-- * June 2021 – October 2023: Full-Stack Developer
+  * Altius Technology, DR Congo
+  * Duties: Software development and systems integration. -->
+
+Technical Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+* **Microelectronics & VLSI**
+  * CMOS circuit design, SRAM architectures, low-power digital circuits, physical design, DRC/LVS, and parasitic extraction.
+
+* **Electronic Design Automation**
+  * Cadence Virtuoso, Spectre, ADE, Calibre, OpenROAD, Yosys, KLayout, Magic, Xschem, and ngspice.
+
+* **AI Hardware & Computer Architecture**
+  * In-memory computing, Tsetlin Machines, Edge AI accelerators, emerging memories (FeFET/eDRAM), and memory architectures.
+
+* **Digital & Embedded Systems**
+  * Verilog HDL, FPGA prototyping, embedded systems, RTOS, and hardware/software co-design.
+
+* **Programming & Scientific Computing**
+  * Python, C/C++, Assembly, MATLAB, Linux, Git, and scientific data analysis.
+
+* **Research & Teaching**
+  * Circuit characterization, hardware benchmarking, scientific writing, engineering laboratory instruction, and technical mentoring.
 
 Publications
 ======
@@ -59,6 +80,9 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and Leadership
 ======
-* Currently signed in to 43 different slack teams
+
+* International Youth Math Challenge (IYMC) Ambassador
+  * Promoted mathematical education and encouraged student participation in international mathematics competitions.
+  * Recognition: IYMC Ambassador Award and Silver Honour.
