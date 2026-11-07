@@ -1,6 +1,6 @@
 ---
 title: "A 7T/8T SRAM In-Memory Computing Macro Supporting Inference and Online Tsetlin Machine Learning for Edge AI"
-excerpt: "Design and simulation of a 7T/8T SRAM-based in-memory computing macro supporting inference and online Tsetlin Machine learning for Edge AI.<br/><br/><img src='{{ site.baseurl }}/images/sram-imcmacrolayout.png' alt='SRAM IMC Macro Layout' style='width:250px; max-width:100%; height:auto; display:block; margin:10px 0;'>"
+excerpt: "Design and simulation of a 7T/8T SRAM-based in-memory computing macro supporting inference and online Tsetlin Machine learning for Edge AI.<br/><br/><img src='/images/sram-imcmacrolayout.png' alt='SRAM IMC Macro Layout' style='width:250px; max-width:100%; height:auto; display:block; margin:10px 0;'>"
 collection: portfolio
 permalink: /portfolio/sram-in-memory-computing
 date: 2026-08-21
@@ -77,7 +77,7 @@ System Architecture
 The proposed architecture explores the integration of SRAM-based storage and in-memory operations for Tsetlin Machine learning and inference.
 
 <figure class="research-figure">
-  <img src="{{ site.baseurl }}/images/sram-imc-8T-archi.png"
+  <img src="/images/sram-imc-8T-archi.png"
        alt="SRAM in-memory computing architecture"
        loading="lazy"
        style="background-color: white; padding: 15px; border-radius: 6px; width: 50%; max-width: 100%; height: auto; box-sizing: border-box;">
@@ -92,14 +92,14 @@ The 7T SRAM bitcell is investigated as a circuit-level building block for implem
 <div class="research-gallery">
 
   <figure class="research-figure">
-    <img src="{{ site.baseurl }}/images/sram7T.png"
+    <img src="/images/sram7T.png"
          alt="7T SRAM bitcell"
          loading="lazy">
     <figcaption>Figure 3. 7T SRAM bitcell architecture.</figcaption>
   </figure>
 
   <figure class="research-figure">
-    <img src="{{ site.baseurl }}/images/sram7Tschematic.png"
+    <img src="/images/sram7Tschematic.png"
          alt="7T SRAM transistor-level schematic"
          loading="lazy">
     <figcaption>Figure 4. Transistor-level schematic of the 7T SRAM bitcell.</figcaption>
@@ -115,14 +115,14 @@ The 8T SRAM bitcell is explored as an alternative architecture for supporting th
 <div class="research-gallery">
 
   <figure class="research-figure">
-    <img src="{{ site.baseurl }}/images/sram8T.png"
+    <img src="/images/sram8T.png"
          alt="8T SRAM bitcell"
          loading="lazy">
     <figcaption>Figure 5. 8T SRAM bitcell architecture.</figcaption>
   </figure>
 
   <figure class="research-figure">
-    <img src="{{ site.baseurl }}/images/sram8Tschematic.png"
+    <img src="/images/sram8Tschematic.png"
          alt="8T SRAM transistor-level schematic"
          loading="lazy">
     <figcaption>Figure 6. Transistor-level schematic of the 8T SRAM bitcell.</figcaption>
@@ -140,7 +140,7 @@ The physical design stage involves transistor-level layout implementation and ve
 <figure class="research-figure"
         style="display: flex; flex-direction: column; align-items: center;">
 
-  <img src="{{ site.baseurl }}/images/sram8Tlayout.png"
+  <img src="/images/sram8Tlayout.png"
        alt="8T SRAM physical layout"
        loading="lazy"
        style="width: 50%; max-width: 100%; height: auto;">
@@ -156,7 +156,7 @@ The physical design stage involves transistor-level layout implementation and ve
 <figure class="research-figure"
         style="display: flex; flex-direction: column; align-items: center;">
 
-  <img src="{{ site.baseurl }}/images/sram-imcmacrolayout.png"
+  <img src="/images/sram-imcmacrolayout.png"
        alt="SRAM in-memory computing macro layout"
        loading="lazy"
        style="width: 50%; max-width: 100%; height: auto;">
