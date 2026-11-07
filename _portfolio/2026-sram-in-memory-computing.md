@@ -56,7 +56,7 @@ This research investigates the design and simulation of a 7T/8T SRAM-based in-me
 The project focuses on integrating learning operations within SRAM structures to reduce data movement and improve energy efficiency in Edge AI applications.
 
 <figure class="research-figure">
-  <img src="{{ site.baseurl }}/images/sram-imc-8T-7T.png"
+  <img src="/images/sram-imc-8T-7T.png"
        alt="7T/8T SRAM-based in-memory computing macro"
        loading="lazy"
        style="background-color: white; padding: 15px; border-radius: 6px;">
