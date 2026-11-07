@@ -49,12 +49,12 @@ My academic and professional experience also includes software development, syst
 
 My long-term research objective is to contribute to the development of **energy-efficient, scalable, and adaptive computing architectures** capable of supporting artificial intelligence directly at the edge.
 
-I am particularly interested in bridging the gap between **emerging memory devices, integrated circuit design, and machine learning algorithms**, from device-level modelling and circuit design to architecture development and hardware prototyping.
+I am particularly interested in bridging the gap between **emerging memory devices, integrated circuit design, and machine learning algorithms**, from device-level modelling and circuit design to architecture/system development and hardware prototyping.
 
 ## Explore My Work
 
 You can learn more about my research and professional activities through the following sections:
 
 - **Publications:** Peer-reviewed research articles and conference contributions.
-- **Research & Projects:** Current and previous research projects, hardware designs, and prototypes.
+- **Portfolio:** Current and previous research projects, hardware designs, and prototypes.
 - **CV:** Academic qualifications, research experience, teaching, and technical expertise.

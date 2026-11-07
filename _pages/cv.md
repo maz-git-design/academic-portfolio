@@ -11,11 +11,15 @@ redirect_from:
 
 Education
 ======
-<!-- * Ph.D in Version Control Theory, GitHub University, 2018 (expected) -->
-* M.Sc. in Microelectronics: Systems and Devices, Newcastle University, 2026
-  * Grade: Distinction (83.2%), Research Project mark: 86%
-* Eng.Dipl in Electrical and Computer Science Engineering, Université de Kinshasa, 2021
-  * Grade: Distinction (78%), Research Project mark : 95%
+* **M.Sc. in Microelectronics: Systems and Devices**, Newcastle University, 2026
+  * Grade: Distinction (83.2%),  Research Projec Mark: 86%
+  <!-- * **Scholarship:** Chevening Scholar (2025–2026) -->
+  * **Relevant Coursework:** Low-Power VLSI Design, Microelectronics Design Tools, Advanced Electronic Devices, Advanced Device Fabrication, Real-Time Embedded Systems.
+  * **Research Project:** A 7T/8T SRAM In-Memory Computing Macro Supporting Inference and Online Tsetlin Machine Learning for Edge AI.
+  * **Programme:** [Official MSc Description](https://www.ncl.ac.uk/postgraduate/degrees/5393f/)
+
+* **Eng.Dipl. in Electrical and Computer Science Engineering**, Université de Kinshasa, 2021
+  * Grade: Distinction (78%),  Research Project Mark: 95%
 
 Research & Teaching experience
 ======
