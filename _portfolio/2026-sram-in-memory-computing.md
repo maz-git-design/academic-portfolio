@@ -1,6 +1,6 @@
 ---
 title: "A 7T/8T SRAM In-Memory Computing Macro Supporting Inference and Online Tsetlin Machine Learning for Edge AI"
-excerpt: "Design and simulation of a 7T/8T SRAM-based in-memory computing macro supporting inference and online Tsetlin Machine learning for Edge AI.<br/><br/><img src='/academic-portfolio/images/sram-imcmacrolayout.png' alt='SRAM IMC Macro Layout' style='width:250px; max-width:100%; height:auto; display:block; margin:10px 0;'>"
+excerpt: "Design and simulation of a 7T/8T SRAM-based in-memory computing macro supporting inference and online Tsetlin Machine learning for Edge AI.<br/><br/><img src='{{ site.baseurl }}/images/sram-imcmacrolayout.png' alt='SRAM IMC Macro Layout' style='width:250px; max-width:100%; height:auto; display:block; margin:10px 0;'>"
 collection: portfolio
 permalink: /portfolio/sram-in-memory-computing
 date: 2026-08-21
