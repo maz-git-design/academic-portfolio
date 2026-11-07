@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: 'About Me'
 author_profile: true
 redirect_from:
   - /about/
@@ -17,7 +17,7 @@ redirect_from:
 
 I am a **Research Assistant at Newcastle University**, working in the field of **microelectronics and energy-efficient computing architectures**. My research focuses on the design and implementation of **in-memory computing architectures for Edge Artificial Intelligence (Edge AI)**, with particular emphasis on memory-centric hardware, low-power VLSI circuits, and on-chip learning.
 
-I hold an **MSc in Microelectronics: Systems and Devices from Newcastle University**, completed as a **Chevening Scholar**, and an Engineering degree in **Electronics and Computer Science from the University of Kinshasa (UNIKIN)**, Democratic Republic of the Congo.
+I hold an **MSc in Microelectronics: Systems and Devices from Newcastle University**, and an Engineering degree in **Electronics and Computer Science from the University of Kinshasa (UNIKIN)**, Democratic Republic of the Congo.
 
 ## Research Interests
 
