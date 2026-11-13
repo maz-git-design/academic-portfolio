@@ -1,7 +1,7 @@
 var addressPoints = [
   [
-    "Combined P&O MPPT and CC-CV Algorithms for Portable Efficient Solar Charging System<br />International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME); To be confirmed",
-    15.1267151,
-    105.6364068
+    "Combined P&O MPPT and CC-CV Algorithms for Portable Efficient Solar Charging System<br />International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME); Maldives",
+    3.7203503,
+    73.2244152
   ]
 ];
